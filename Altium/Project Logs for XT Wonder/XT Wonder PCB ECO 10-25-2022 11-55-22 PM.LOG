@@ -1,0 +1,5 @@
+Added Component: Designator=U1(TVGA9000)
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TVGA9000I"; VariantName = "[No Variations]"
+Added Class: Name=XT Wonder
+Added Room: Name=XT Wonder
