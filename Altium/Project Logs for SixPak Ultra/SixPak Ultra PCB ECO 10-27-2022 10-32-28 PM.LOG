@@ -1,0 +1,182 @@
+Added Component: Designator=BUS1(Conn_Bus_ISA8)
+Add component (AddParameter): Name = "Value"; Value = "BUSPC_DEV"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TAJR104K035RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJR104K035RNJ/AVX%20/%20Kyocera/view-part/1689905/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TAJR104K035RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJR104K035RNJ/AVX%20/%20Kyocera/view-part/1689905/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TAJR104K035RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJR104K035RNJ/AVX%20/%20Kyocera/view-part/1689905/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TAJR104K035RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJR104K035RNJ/AVX%20/%20Kyocera/view-part/1689905/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TAJR104K035RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJR104K035RNJ/AVX%20/%20Kyocera/view-part/1689905/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TAJR104K035RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJR104K035RNJ/AVX%20/%20Kyocera/view-part/1689905/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TAJR104K035RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJR104K035RNJ/AVX%20/%20Kyocera/view-part/1689905/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TAJR104K035RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJR104K035RNJ/AVX%20/%20Kyocera/view-part/1689905/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TACR106K016XTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TACR106K016XTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A0 Pin=BUS1-62
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=BUS1-61
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=BUS1-60
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=BUS1-59
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=BUS1-58
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=BUS1-57
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=BUS1-56
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=BUS1-55
+Added Net: Name=A7
+Added Pin To Net: NetName=A8 Pin=BUS1-54
+Added Net: Name=A8
+Added Pin To Net: NetName=A9 Pin=BUS1-53
+Added Net: Name=A9
+Added Pin To Net: NetName=A10 Pin=BUS1-52
+Added Net: Name=A10
+Added Pin To Net: NetName=A11 Pin=BUS1-51
+Added Net: Name=A11
+Added Pin To Net: NetName=A12 Pin=BUS1-50
+Added Net: Name=A12
+Added Pin To Net: NetName=A13 Pin=BUS1-49
+Added Net: Name=A13
+Added Pin To Net: NetName=A14 Pin=BUS1-48
+Added Net: Name=A14
+Added Pin To Net: NetName=A15 Pin=BUS1-47
+Added Net: Name=A15
+Added Pin To Net: NetName=A16 Pin=BUS1-46
+Added Net: Name=A16
+Added Pin To Net: NetName=A17 Pin=BUS1-45
+Added Net: Name=A17
+Added Pin To Net: NetName=A18 Pin=BUS1-44
+Added Net: Name=A18
+Added Pin To Net: NetName=A19 Pin=BUS1-43
+Added Net: Name=A19
+Added Pin To Net: NetName=AEN Pin=BUS1-42
+Added Net: Name=AEN
+Added Pin To Net: NetName=D0 Pin=BUS1-40
+Added Net: Name=D0
+Added Pin To Net: NetName=D1 Pin=BUS1-39
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=BUS1-38
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=BUS1-37
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=BUS1-36
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=BUS1-35
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=BUS1-34
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=BUS1-33
+Added Net: Name=D7
+Added Pin To Net: NetName=GND Pin=BUS1-1
+Added Pin To Net: NetName=GND Pin=BUS1-10
+Added Pin To Net: NetName=GND Pin=BUS1-31
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Net: Name=GND
+Added Pin To Net: NetName=IOCHRDY Pin=BUS1-41
+Added Net: Name=IOCHRDY
+Added Pin To Net: NetName=IOR Pin=BUS1-14
+Added Net: Name=IOR
+Added Pin To Net: NetName=IOW Pin=BUS1-13
+Added Net: Name=IOW
+Added Pin To Net: NetName=MEMR Pin=BUS1-12
+Added Net: Name=MEMR
+Added Pin To Net: NetName=MEMW Pin=BUS1-11
+Added Net: Name=MEMW
+Added Pin To Net: NetName=OSC Pin=BUS1-30
+Added Net: Name=OSC
+Added Pin To Net: NetName=RESET Pin=BUS1-2
+Added Net: Name=RESET
+Added Pin To Net: NetName=VCC Pin=BUS1-3
+Added Pin To Net: NetName=VCC Pin=BUS1-29
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=C7-1
+Added Pin To Net: NetName=VCC Pin=C8-1
+Added Pin To Net: NetName=VCC Pin=C9-1
+Added Pin To Net: NetName=VCC Pin=C10-1
+Added Net: Name=VCC
+Added Class: Name=SixPak Ultra
+Change Room Name: Old Name=XT Wonder New Name=SixPak Ultra
+Change Room Scope: Old Scope=InComponentClass('XT Wonder') New Scope=InComponentClass('SixPak Ultra')
