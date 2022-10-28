@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QYCWUKDX
 
 [Document3]
-DocumentPath=VGA Footprint.PcbLib
+DocumentPath=XT Wonder.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
