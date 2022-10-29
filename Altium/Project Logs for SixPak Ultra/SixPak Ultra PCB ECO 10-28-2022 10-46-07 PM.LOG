@@ -1,0 +1,71 @@
+Added Component: Designator=C20(CAPC2012X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "08055A470JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAPC2012X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "08055A470JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RMCF0805JT33R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RMCF0805JT33R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC2012X60N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "311-4.70KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com.eg/product-detail/en/yageo/RC0805FR-074K7L/311-4.70KCRCT-ND/730876?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2012 Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-074K7L/Yageo/view-part/523399/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(MT4C4256)
+Add component (AddParameter): Name = "Value"; Value = "MT4C4256"; VariantName = "[No Variations]"
+Added Component: Designator=U?(MT4C4256)
+Add component (AddParameter): Name = "Value"; Value = "MT4C4256"; VariantName = "[No Variations]"
+Added Component: Designator=U?(MT4C4256)
+Add component (AddParameter): Name = "Value"; Value = "MT4C4256"; VariantName = "[No Variations]"
+Added Component: Designator=U?(MT4C4256)
+Add component (AddParameter): Name = "Value"; Value = "MT4C4256"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=C20-2
+Added Pin To Net: NetName=AGND Pin=C21-2
+Added Pin To Net: NetName=VCC Pin=R6-1
+Added Pin To Net: NetName=nCAS Pin=C20-1
+Added Pin To Net: NetName=nCAS Pin=R5-2
+Added Net: Name=nCAS
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-86
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-85
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U1-102
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=nRAS Pin=C21-1
+Added Pin To Net: NetName=nRAS Pin=R4-2
+Added Net: Name=nRAS
+Added Member To Class: ClassName=SixPak Ultra Member=Component C20 47pF
+Added Member To Class: ClassName=SixPak Ultra Member=Component C21 47pF
+Added Member To Class: ClassName=SixPak Ultra Member=Component R4 33
+Added Member To Class: ClassName=SixPak Ultra Member=Component R5 33
+Added Member To Class: ClassName=SixPak Ultra Member=Component R6 4.7k
+Added Member To Class: ClassName=SixPak Ultra Member=Component U? MT4C4256
+Added Member To Class: ClassName=SixPak Ultra Member=Component U? MT4C4256
+Added Member To Class: ClassName=SixPak Ultra Member=Component U? MT4C4256
+Added Member To Class: ClassName=SixPak Ultra Member=Component U? MT4C4256
