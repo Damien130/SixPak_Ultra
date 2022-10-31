@@ -1,0 +1,175 @@
+Added Component: Designator=P2(SERIALDB9)
+Add component (AddParameter): Name = "Value"; Value = "SERIAL"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW_1-1825058-9)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-1825058-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-4 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-1825058-9/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/52148/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1-1825058-9.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOIC127P600X175-16N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74ALS138ADR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U8(SOIC127P600X175-16N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74ALS138ADR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U9(16550_PLCC)
+Add component (AddParameter): Name = "Value"; Value = "16550-PLCC"; VariantName = "[No Variations]"
+Added Component: Designator=U10(Osc_Socket 4PIN)
+Add component (AddParameter): Name = "Value"; Value = "1.8432MHz"; VariantName = "[No Variations]"
+Added Component: Designator=U11(GD75232)
+Add component (AddParameter): Name = "Value"; Value = "GD75232"; VariantName = "[No Variations]"
+Added Component: Designator=U12(82077AA)
+Add component (AddParameter): Name = "Value"; Value = "82077AA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=P2-5
+Added Pin To Net: NetName=A8 Pin=U7-1
+Added Pin To Net: NetName=A4 Pin=U7-2
+Added Pin To Net: NetName=A3 Pin=U7-3
+Added Pin To Net: NetName=AEN Pin=U7-4
+Added Pin To Net: NetName=A5 Pin=U7-6
+Added Pin To Net: NetName=AGND Pin=U7-8
+Added Pin To Net: NetName=VCC Pin=U7-16
+Added Pin To Net: NetName=A6 Pin=U8-1
+Added Pin To Net: NetName=A7 Pin=U8-2
+Added Pin To Net: NetName=A9 Pin=U8-3
+Added Pin To Net: NetName=AGND Pin=U8-4
+Added Pin To Net: NetName=AGND Pin=U8-5
+Added Pin To Net: NetName=VCC Pin=U8-6
+Added Pin To Net: NetName=AGND Pin=U8-8
+Added Pin To Net: NetName=VCC Pin=U8-16
+Added Pin To Net: NetName=D0 Pin=U9-2
+Added Pin To Net: NetName=D1 Pin=U9-3
+Added Pin To Net: NetName=D2 Pin=U9-4
+Added Pin To Net: NetName=D3 Pin=U9-5
+Added Pin To Net: NetName=D4 Pin=U9-6
+Added Pin To Net: NetName=D5 Pin=U9-7
+Added Pin To Net: NetName=D6 Pin=U9-8
+Added Pin To Net: NetName=D7 Pin=U9-9
+Added Pin To Net: NetName=VCC Pin=U9-14
+Added Pin To Net: NetName=VCC Pin=U9-15
+Added Pin To Net: NetName=nIOW Pin=U9-20
+Added Pin To Net: NetName=AGND Pin=U9-21
+Added Pin To Net: NetName=nIOR Pin=U9-24
+Added Pin To Net: NetName=AGND Pin=U9-25
+Added Pin To Net: NetName=AGND Pin=U9-28
+Added Pin To Net: NetName=A2 Pin=U9-29
+Added Pin To Net: NetName=A1 Pin=U9-30
+Added Pin To Net: NetName=A0 Pin=U9-31
+Added Pin To Net: NetName=AGND Pin=U10-7
+Added Pin To Net: NetName=VCC Pin=U10-14
+Added Pin To Net: NetName=VCC Pin=U11-1
+Added Pin To Net: NetName=AGND Pin=U11-10
+Added Pin To Net: NetName=CTS Pin=P2-8
+Added Pin To Net: NetName=CTS Pin=U11-7
+Added Net: Name=CTS
+Added Pin To Net: NetName=DCD Pin=P2-1
+Added Pin To Net: NetName=DCD Pin=U11-2
+Added Net: Name=DCD
+Added Pin To Net: NetName=DSR Pin=P2-6
+Added Pin To Net: NetName=DSR Pin=U11-3
+Added Net: Name=DSR
+Added Pin To Net: NetName=DTR Pin=P2-4
+Added Pin To Net: NetName=DTR Pin=U11-8
+Added Net: Name=DTR
+Added Pin To Net: NetName=IRQ3 Pin=SW1-1
+Added Net: Name=IRQ3
+Added Pin To Net: NetName=IRQ4 Pin=SW1-2
+Added Net: Name=IRQ4
+Added Pin To Net: NetName=IRQ5 Pin=SW1-3
+Added Net: Name=IRQ5
+Added Net: Name=IRQ6
+Added Pin To Net: NetName=IRQ7 Pin=SW1-4
+Added Net: Name=IRQ7
+Added Pin To Net: NetName=nCTS Pin=U9-40
+Added Pin To Net: NetName=nCTS Pin=U11-14
+Added Net: Name=nCTS
+Added Pin To Net: NetName=nDCD Pin=U9-42
+Added Pin To Net: NetName=nDCD Pin=U11-19
+Added Net: Name=nDCD
+Added Pin To Net: NetName=nDSR Pin=U9-41
+Added Pin To Net: NetName=nDSR Pin=U11-18
+Added Net: Name=nDSR
+Added Pin To Net: NetName=nDTR Pin=U9-37
+Added Pin To Net: NetName=nDTR Pin=U11-13
+Added Net: Name=nDTR
+Added Pin To Net: NetName=NetSW1_5 Pin=SW1-5
+Added Pin To Net: NetName=NetSW1_5 Pin=U7-11
+Added Net: Name=NetSW1_5
+Added Pin To Net: NetName=NetSW1_6 Pin=SW1-6
+Added Pin To Net: NetName=NetSW1_6 Pin=U7-10
+Added Net: Name=NetSW1_6
+Added Pin To Net: NetName=NetSW1_7 Pin=SW1-7
+Added Pin To Net: NetName=NetSW1_7 Pin=U7-9
+Added Net: Name=NetSW1_7
+Added Pin To Net: NetName=NetSW1_8 Pin=SW1-8
+Added Pin To Net: NetName=NetSW1_8 Pin=U7-7
+Added Net: Name=NetSW1_8
+Added Pin To Net: NetName=NetU7_5 Pin=U7-5
+Added Pin To Net: NetName=NetU7_5 Pin=U8-7
+Added Net: Name=NetU7_5
+Added Pin To Net: NetName=NetU9_10 Pin=U9-10
+Added Pin To Net: NetName=NetU9_10 Pin=U9-17
+Added Net: Name=NetU9_10
+Added Pin To Net: NetName=NetU9_18 Pin=U9-18
+Added Pin To Net: NetName=NetU9_18 Pin=U10-8
+Added Net: Name=NetU9_18
+Added Pin To Net: NetName=nFDC_CS Pin=U7-12
+Added Net: Name=nFDC_CS
+Added Pin To Net: NetName=nRI Pin=U9-43
+Added Pin To Net: NetName=nRI Pin=U11-12
+Added Net: Name=nRI
+Added Pin To Net: NetName=nRTS Pin=U9-36
+Added Pin To Net: NetName=nRTS Pin=U11-16
+Added Net: Name=nRTS
+Added Pin To Net: NetName=nSIN Pin=U9-11
+Added Pin To Net: NetName=nSIN Pin=U11-17
+Added Net: Name=nSIN
+Added Pin To Net: NetName=nSOUT Pin=U9-13
+Added Pin To Net: NetName=nSOUT Pin=U11-15
+Added Net: Name=nSOUT
+Added Pin To Net: NetName=nUART_CS Pin=SW1-5.1
+Added Pin To Net: NetName=nUART_CS Pin=SW1-6.1
+Added Pin To Net: NetName=nUART_CS Pin=SW1-7.1
+Added Pin To Net: NetName=nUART_CS Pin=SW1-8.1
+Added Pin To Net: NetName=nUART_CS Pin=U9-16
+Added Net: Name=nUART_CS
+Added Pin To Net: NetName=RESETDRV Pin=U9-39
+Added Net: Name=RESETDRV
+Added Pin To Net: NetName=RI Pin=P2-9
+Added Pin To Net: NetName=RI Pin=U11-9
+Added Net: Name=RI
+Added Pin To Net: NetName=RTS Pin=P2-7
+Added Pin To Net: NetName=RTS Pin=U11-5
+Added Net: Name=RTS
+Added Pin To Net: NetName=RX Pin=P2-2
+Added Pin To Net: NetName=RX Pin=U11-4
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=P2-3
+Added Pin To Net: NetName=TX Pin=U11-6
+Added Net: Name=TX
+Added Pin To Net: NetName=UART_IRQ Pin=SW1-1.1
+Added Pin To Net: NetName=UART_IRQ Pin=SW1-2.1
+Added Pin To Net: NetName=UART_IRQ Pin=SW1-3.1
+Added Pin To Net: NetName=UART_IRQ Pin=SW1-4.1
+Added Pin To Net: NetName=UART_IRQ Pin=U9-33
+Added Net: Name=UART_IRQ
+Added Member To Class: ClassName=SixPak Ultra Member=Component FB? FILTER
+Added Member To Class: ClassName=SixPak Ultra Member=Component P2 SERIAL
+Added Member To Class: ClassName=SixPak Ultra Member=Component SW1 1-1825058-9
+Added Member To Class: ClassName=SixPak Ultra Member=Component U7 SN74ALS138ADR
+Added Member To Class: ClassName=SixPak Ultra Member=Component U8 SN74ALS138ADR
+Added Member To Class: ClassName=SixPak Ultra Member=Component U9 16550-PLCC
+Added Member To Class: ClassName=SixPak Ultra Member=Component U10 1.8432MHz
+Added Member To Class: ClassName=SixPak Ultra Member=Component U11 GD75232
+Added Member To Class: ClassName=SixPak Ultra Member=Component U12 82077AA
