@@ -1,0 +1,65 @@
+Added Component: Designator=J2(TE_640452-2)
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "2.54 mm[.1 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A1911-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/640452-2/A1911-ND/108973?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "640452-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product_Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/640452-2/TE%20Connectivity%20AMP%20Connectors/view-part/2877927/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-640452-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U15(YM3812)
+Add component (AddParameter): Name = "Value"; Value = "YM3812"; VariantName = "[No Variations]"
+Added Component: Designator=U16(SOIC127P600X175-16N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74ALS138ADR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=A0 Pin=U15-4
+Added Pin To Net: NetName=GND Pin=U16-8
+Added Pin To Net: NetName=VCC Pin=U16-16
+Added Pin To Net: NetName=DAC_CLK Pin=U15-23
+Added Net: Name=DAC_CLK
+Added Pin To Net: NetName=DAC_DATA Pin=U15-21
+Added Net: Name=DAC_DATA
+Added Pin To Net: NetName=DAC_SYNC Pin=U15-20
+Added Net: Name=DAC_SYNC
+Added Pin To Net: NetName=DB0 Pin=U15-10
+Added Net: Name=DB0
+Added Pin To Net: NetName=DB1 Pin=U15-11
+Added Net: Name=DB1
+Added Pin To Net: NetName=DB2 Pin=U15-13
+Added Net: Name=DB2
+Added Pin To Net: NetName=DB3 Pin=U15-14
+Added Net: Name=DB3
+Added Pin To Net: NetName=DB4 Pin=U15-15
+Added Net: Name=DB4
+Added Pin To Net: NetName=DB5 Pin=U15-16
+Added Net: Name=DB5
+Added Pin To Net: NetName=DB6 Pin=U15-17
+Added Net: Name=DB6
+Added Pin To Net: NetName=DB7 Pin=U15-18
+Added Net: Name=DB7
+Added Pin To Net: NetName=MCLK Pin=U15-24
+Added Net: Name=MCLK
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=P3-3
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=nIRQ Pin=U15-2
+Added Net: Name=nIRQ
+Added Pin To Net: NetName=nOPL_CS Pin=U15-7
+Added Net: Name=nOPL_CS
+Added Pin To Net: NetName=nOPL_RD Pin=U15-6
+Added Net: Name=nOPL_RD
+Added Pin To Net: NetName=nOPL_WR Pin=U15-5
+Added Net: Name=nOPL_WR
+Added Pin To Net: NetName=nRESET Pin=U15-3
+Added Net: Name=nRESET
+Added Member To Class: ClassName=SixPak Ultra Member=Component J2 640452-2
+Added Member To Class: ClassName=SixPak Ultra Member=Component U15 YM3812
+Added Member To Class: ClassName=SixPak Ultra Member=Component U16 SN74ALS138ADR

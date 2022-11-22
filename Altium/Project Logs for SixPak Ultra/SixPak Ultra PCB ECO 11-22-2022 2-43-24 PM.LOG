@@ -1,0 +1,9 @@
+Added Component: Designator=U21(Y3014B)
+Add component (AddParameter): Name = "Value"; Value = "Y3014B"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU21_2 Pin=U21-2
+Added Pin To Net: NetName=DAC_SYNC Pin=U21-3
+Added Pin To Net: NetName=DAC_DATA Pin=U21-4
+Added Pin To Net: NetName=DAC_CLK Pin=U21-5
+Added Pin To Net: NetName=NetC31_1 Pin=U21-7
+Added Pin To Net: NetName=NetU21_8 Pin=U21-8
+Added Member To Class: ClassName=SixPak Ultra Member=Component U21 Y3014B
