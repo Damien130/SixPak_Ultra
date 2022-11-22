@@ -1,0 +1,231 @@
+Removed Pin From Net: NetName=VCC Pin=U11-1
+Removed Pin From Net: NetName=AGND Pin=U11-10
+Change Component Designator: OldDesignator=FB? NewDesignator=FB5
+Change Component Designator: OldDesignator=FB? NewDesignator=FB6
+Added Component: Designator=C28(CAPC2013X145X50NL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0805A220KXJPW1BC"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAPC2013X145X50NL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0805A220KXJPW1BC"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAPC2012X100N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0805C472J2GAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=RR1(Res Network RR2 Floppy)
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW_1-1825058-9)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-1825058-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-4 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-1825058-9/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/52148/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1-1825058-9.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U13(SOIC127P1030X265-20N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74LS688DW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U14(27C256)
+Add component (AddParameter): Name = "Value"; Value = "28C64"; VariantName = "[No Variations]"
+Added Component: Designator=X2(XTAL_ABM7-24.000MHZ-D2Y-T)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ABM7-24.000MHZ-D2Y-T/Abracon+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "535-9845-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ABM7-24.000MHZ-D2Y-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ABM7-24.000MHZ-D2Y-T/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ABM7-24.000MHZ-D2Y-T/Abracon+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BUS1-21
+Add Pin To Net: Unknown Pin: Pin BUS1-22
+Add Pin To Net: Unknown Pin: Pin BUS1-23
+Add Pin To Net: Unknown Pin: Pin BUS1-24
+Add Pin To Net: Unknown Pin: Pin BUS1-25
+Added Pin To Net: NetName=AGND Pin=C28-1
+Added Pin To Net: NetName=AGND Pin=C29-1
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P3-5
+Add Pin To Net: Unknown Pin: Pin P3-7
+Add Pin To Net: Unknown Pin: Pin P3-11
+Add Pin To Net: Unknown Pin: Pin P3-13
+Add Pin To Net: Unknown Pin: Pin P3-15
+Add Pin To Net: Unknown Pin: Pin P3-19
+Add Pin To Net: Unknown Pin: Pin P3-21
+Add Pin To Net: Unknown Pin: Pin P3-23
+Add Pin To Net: Unknown Pin: Pin P3-25
+Add Pin To Net: Unknown Pin: Pin P3-29
+Add Pin To Net: Unknown Pin: Pin P3-31
+Added Pin To Net: NetName=VCC Pin=RR1-1
+Add Pin To Net: Unknown Pin: Pin RR2-1
+Added Pin To Net: NetName=nMEMW Pin=SW2-2
+Added Pin To Net: NetName=AGND Pin=SW2-3
+Added Pin To Net: NetName=AGND Pin=SW2-4
+Added Pin To Net: NetName=AGND Pin=SW2-5
+Added Pin To Net: NetName=AGND Pin=SW2-6
+Added Pin To Net: NetName=AGND Pin=SW2-7
+Added Pin To Net: NetName=nIOR Pin=U12-4
+Added Pin To Net: NetName=nIOW Pin=U12-5
+Added Pin To Net: NetName=nFDC_CS Pin=U12-6
+Added Pin To Net: NetName=A0 Pin=U12-7
+Added Pin To Net: NetName=A1 Pin=U12-8
+Added Pin To Net: NetName=A2 Pin=U12-10
+Added Pin To Net: NetName=D0 Pin=U12-11
+Added Pin To Net: NetName=D1 Pin=U12-13
+Added Pin To Net: NetName=D2 Pin=U12-14
+Added Pin To Net: NetName=D3 Pin=U12-15
+Added Pin To Net: NetName=D4 Pin=U12-17
+Added Pin To Net: NetName=D5 Pin=U12-19
+Added Pin To Net: NetName=D6 Pin=U12-20
+Added Pin To Net: NetName=D7 Pin=U12-22
+Added Pin To Net: NetName=IRQ6 Pin=U12-23
+Added Pin To Net: NetName=VCC Pin=U12-27
+Added Pin To Net: NetName=AGND Pin=U12-30
+Added Pin To Net: NetName=RESETDRV Pin=U12-32
+Added Pin To Net: NetName=AGND Pin=U12-35
+Added Pin To Net: NetName=VCC Pin=U12-39
+Added Pin To Net: NetName=AGND Pin=U12-45
+Added Pin To Net: NetName=VCC Pin=U12-46
+Added Pin To Net: NetName=AGND Pin=U13-1
+Added Pin To Net: NetName=A19 Pin=U13-2
+Added Pin To Net: NetName=VCC Pin=U13-3
+Added Pin To Net: NetName=A18 Pin=U13-4
+Added Pin To Net: NetName=VCC Pin=U13-5
+Added Pin To Net: NetName=A17 Pin=U13-6
+Added Pin To Net: NetName=A16 Pin=U13-8
+Added Pin To Net: NetName=AGND Pin=U13-10
+Added Pin To Net: NetName=A15 Pin=U13-11
+Added Pin To Net: NetName=A14 Pin=U13-13
+Added Pin To Net: NetName=A13 Pin=U13-15
+Added Pin To Net: NetName=AGND Pin=U13-17
+Added Pin To Net: NetName=AGND Pin=U13-18
+Added Pin To Net: NetName=VCC Pin=U13-20
+Added Pin To Net: NetName=A12 Pin=U14-2
+Added Pin To Net: NetName=A7 Pin=U14-3
+Added Pin To Net: NetName=A6 Pin=U14-4
+Added Pin To Net: NetName=A5 Pin=U14-5
+Added Pin To Net: NetName=A4 Pin=U14-6
+Added Pin To Net: NetName=A3 Pin=U14-7
+Added Pin To Net: NetName=A2 Pin=U14-8
+Added Pin To Net: NetName=A1 Pin=U14-9
+Added Pin To Net: NetName=A0 Pin=U14-10
+Added Pin To Net: NetName=D0 Pin=U14-11
+Added Pin To Net: NetName=D1 Pin=U14-12
+Added Pin To Net: NetName=D2 Pin=U14-13
+Added Pin To Net: NetName=D3 Pin=U14-15
+Added Pin To Net: NetName=D4 Pin=U14-16
+Added Pin To Net: NetName=D5 Pin=U14-17
+Added Pin To Net: NetName=D6 Pin=U14-18
+Added Pin To Net: NetName=D7 Pin=U14-19
+Added Pin To Net: NetName=A10 Pin=U14-21
+Added Pin To Net: NetName=nMEMR Pin=U14-22
+Added Pin To Net: NetName=A11 Pin=U14-23
+Added Pin To Net: NetName=A9 Pin=U14-24
+Added Pin To Net: NetName=A8 Pin=U14-25
+Change Net Name : Old Net Name=AGND New Net Name=GND
+Added Pin To Net: NetName=+12 Pin=U11-1
+Added Net: Name=+12
+Added Pin To Net: NetName=-12 Pin=U11-10
+Added Net: Name=-12
+Added Pin To Net: NetName=DENSL Pin=U12-49
+Added Net: Name=DENSL
+Added Pin To Net: NetName=DIR Pin=U12-56
+Added Net: Name=DIR
+Added Pin To Net: NetName=DRQ2 Pin=U12-24
+Added Net: Name=DRQ2
+Added Pin To Net: NetName=DSA Pin=U12-58
+Added Net: Name=DSA
+Added Pin To Net: NetName=DSB Pin=U12-62
+Added Net: Name=DSB
+Added Pin To Net: NetName=DSKCG Pin=RR1-6
+Added Pin To Net: NetName=DSKCG Pin=U12-31
+Added Net: Name=DSKCG
+Added Pin To Net: NetName=EXPROMRDY Pin=U14-1
+Added Net: Name=EXPROMRDY
+Added Pin To Net: NetName=HDSEL Pin=U12-51
+Added Net: Name=HDSEL
+Added Pin To Net: NetName=INDEX Pin=RR1-2
+Added Pin To Net: NetName=INDEX Pin=U12-26
+Added Net: Name=INDEX
+Added Pin To Net: NetName=MEA Pin=U12-57
+Added Net: Name=MEA
+Added Pin To Net: NetName=MEB Pin=U12-61
+Added Net: Name=MEB
+Added Pin To Net: NetName=nDACK2 Pin=U12-3
+Added Net: Name=nDACK2
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=U12-33
+Added Pin To Net: NetName=NetC28_2 Pin=X2-2
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=NetC29_2 Pin=U12-34
+Added Pin To Net: NetName=NetC29_2 Pin=X2-1
+Added Net: Name=NetC29_2
+Added Pin To Net: NetName=NetC30_1 Pin=C30-1
+Added Pin To Net: NetName=NetC30_1 Pin=U12-37
+Added Net: Name=NetC30_1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=U12-38
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetP3_6 Pin=U12-28
+Added Net: Name=NetP3_6
+Added Pin To Net: NetName=NetRR2_4 Pin=SW2-3.1
+Added Pin To Net: NetName=NetRR2_4 Pin=U13-7
+Added Net: Name=NetRR2_4
+Added Pin To Net: NetName=NetRR2_5 Pin=SW2-4.1
+Added Pin To Net: NetName=NetRR2_5 Pin=U13-9
+Added Net: Name=NetRR2_5
+Added Pin To Net: NetName=NetRR2_6 Pin=SW2-5.1
+Added Pin To Net: NetName=NetRR2_6 Pin=U13-12
+Added Net: Name=NetRR2_6
+Added Pin To Net: NetName=NetRR2_7 Pin=SW2-6.1
+Added Pin To Net: NetName=NetRR2_7 Pin=U13-14
+Added Net: Name=NetRR2_7
+Added Pin To Net: NetName=NetRR2_8 Pin=SW2-7.1
+Added Pin To Net: NetName=NetRR2_8 Pin=U13-16
+Added Net: Name=NetRR2_8
+Added Pin To Net: NetName=nEXPROMCS_in Pin=SW2-1
+Added Pin To Net: NetName=nEXPROMCS_in Pin=U13-19
+Added Net: Name=nEXPROMCS_in
+Added Pin To Net: NetName=nEXPROMCS Pin=SW2-1.1
+Added Pin To Net: NetName=nEXPROMCS Pin=U14-20
+Added Net: Name=nEXPROMCS
+Added Pin To Net: NetName=nROMW Pin=SW2-2.1
+Added Pin To Net: NetName=nROMW Pin=U14-27
+Added Net: Name=nROMW
+Added Pin To Net: NetName=RDATA Pin=RR1-5
+Added Pin To Net: NetName=RDATA Pin=U12-41
+Added Net: Name=RDATA
+Added Pin To Net: NetName=STEP Pin=U12-55
+Added Net: Name=STEP
+Added Pin To Net: NetName=TC Pin=U12-25
+Added Net: Name=TC
+Added Pin To Net: NetName=TRK00 Pin=RR1-3
+Added Pin To Net: NetName=TRK00 Pin=U12-2
+Added Net: Name=TRK00
+Added Pin To Net: NetName=WDATA Pin=U12-53
+Added Net: Name=WDATA
+Added Pin To Net: NetName=WE Pin=U12-52
+Added Net: Name=WE
+Added Pin To Net: NetName=WP Pin=RR1-4
+Added Pin To Net: NetName=WP Pin=U12-1
+Added Net: Name=WP
+Added Member To Class: ClassName=SixPak Ultra Member=Component C28 22p
+Added Member To Class: ClassName=SixPak Ultra Member=Component C29 22p
+Added Member To Class: ClassName=SixPak Ultra Member=Component C30 4700p
+Added Member To Class: ClassName=SixPak Ultra Member=Component FB5 FILTER
+Add Class Member: Failed to add class member : Component P3 FLOPPY
+Added Member To Class: ClassName=SixPak Ultra Member=Component RR1 1k
+Add Class Member: Failed to add class member : Component RR2 10k
+Added Member To Class: ClassName=SixPak Ultra Member=Component SW2 1-1825058-9
+Added Member To Class: ClassName=SixPak Ultra Member=Component U13 SN74LS688DW
+Added Member To Class: ClassName=SixPak Ultra Member=Component U14 28C64
+Added Member To Class: ClassName=SixPak Ultra Member=Component X2 ABM7-24.000MHZ-D2Y-T

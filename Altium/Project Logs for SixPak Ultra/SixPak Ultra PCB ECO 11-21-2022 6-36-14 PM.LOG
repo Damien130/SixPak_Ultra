@@ -1,0 +1,22 @@
+Added Component: Designator=RR2(Res Network RR1 Floppy ROM)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BUS1-6
+Add Pin To Net: Unknown Pin: Pin BUS1-7
+Add Pin To Net: Unknown Pin: Pin BUS1-9
+Add Pin To Net: Unknown Pin: Pin BUS1-21
+Add Pin To Net: Unknown Pin: Pin BUS1-22
+Add Pin To Net: Unknown Pin: Pin BUS1-23
+Add Pin To Net: Unknown Pin: Pin BUS1-24
+Add Pin To Net: Unknown Pin: Pin BUS1-25
+Add Pin To Net: Unknown Pin: Pin BUS1-26
+Add Pin To Net: Unknown Pin: Pin BUS1-27
+Added Pin To Net: NetName=VCC Pin=RR2-1
+Added Pin To Net: NetName=nEXPROMCS Pin=RR2-2
+Added Pin To Net: NetName=nROMW Pin=RR2-3
+Added Pin To Net: NetName=NetRR2_4 Pin=RR2-4
+Added Pin To Net: NetName=NetRR2_5 Pin=RR2-5
+Added Pin To Net: NetName=NetRR2_6 Pin=RR2-6
+Added Pin To Net: NetName=NetRR2_7 Pin=RR2-7
+Added Pin To Net: NetName=NetRR2_8 Pin=RR2-8
+Added Pin To Net: NetName=EXPROMRDY Pin=RR2-10
+Added Member To Class: ClassName=SixPak Ultra Member=Component RR2 10k

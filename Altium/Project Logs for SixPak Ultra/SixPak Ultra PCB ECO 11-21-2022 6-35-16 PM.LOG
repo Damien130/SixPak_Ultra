@@ -1,0 +1,52 @@
+Added Component: Designator=P3(Floppy Connector)
+Add component (AddParameter): Name = "Value"; Value = "FLOPPY"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BUS1-6
+Add Pin To Net: Unknown Pin: Pin BUS1-7
+Add Pin To Net: Unknown Pin: Pin BUS1-9
+Add Pin To Net: Unknown Pin: Pin BUS1-21
+Add Pin To Net: Unknown Pin: Pin BUS1-22
+Add Pin To Net: Unknown Pin: Pin BUS1-23
+Add Pin To Net: Unknown Pin: Pin BUS1-24
+Add Pin To Net: Unknown Pin: Pin BUS1-25
+Add Pin To Net: Unknown Pin: Pin BUS1-26
+Add Pin To Net: Unknown Pin: Pin BUS1-27
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=DENSL Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Pin To Net: NetName=NetP3_6 Pin=P3-6
+Added Pin To Net: NetName=GND Pin=P3-7
+Added Pin To Net: NetName=INDEX Pin=P3-8
+Added Pin To Net: NetName=MEA Pin=P3-10
+Added Pin To Net: NetName=GND Pin=P3-11
+Added Pin To Net: NetName=DSB Pin=P3-12
+Added Pin To Net: NetName=GND Pin=P3-13
+Added Pin To Net: NetName=DSA Pin=P3-14
+Added Pin To Net: NetName=GND Pin=P3-15
+Added Pin To Net: NetName=MEB Pin=P3-16
+Added Pin To Net: NetName=DIR Pin=P3-18
+Added Pin To Net: NetName=GND Pin=P3-19
+Added Pin To Net: NetName=STEP Pin=P3-20
+Added Pin To Net: NetName=GND Pin=P3-21
+Added Pin To Net: NetName=WDATA Pin=P3-22
+Added Pin To Net: NetName=GND Pin=P3-23
+Added Pin To Net: NetName=WE Pin=P3-24
+Added Pin To Net: NetName=GND Pin=P3-25
+Added Pin To Net: NetName=TRK00 Pin=P3-26
+Added Pin To Net: NetName=WP Pin=P3-28
+Added Pin To Net: NetName=GND Pin=P3-29
+Added Pin To Net: NetName=RDATA Pin=P3-30
+Added Pin To Net: NetName=GND Pin=P3-31
+Added Pin To Net: NetName=HDSEL Pin=P3-32
+Added Pin To Net: NetName=DSKCG Pin=P3-34
+Add Pin To Net: Unknown Pin: Pin RR2-1
+Add Pin To Net: Unknown Pin: Pin RR2-2
+Add Pin To Net: Unknown Pin: Pin RR2-3
+Add Pin To Net: Unknown Pin: Pin RR2-4
+Add Pin To Net: Unknown Pin: Pin RR2-5
+Add Pin To Net: Unknown Pin: Pin RR2-6
+Add Pin To Net: Unknown Pin: Pin RR2-7
+Add Pin To Net: Unknown Pin: Pin RR2-8
+Add Pin To Net: Unknown Pin: Pin RR2-10
+Added Member To Class: ClassName=SixPak Ultra Member=Component FB6 FILTER
+Added Member To Class: ClassName=SixPak Ultra Member=Component P3 FLOPPY
+Add Class Member: Failed to add class member : Component RR2 10k
