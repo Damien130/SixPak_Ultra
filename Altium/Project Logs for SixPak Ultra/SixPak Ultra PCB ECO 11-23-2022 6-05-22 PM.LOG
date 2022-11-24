@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator= NewDesignator=C25
+Change Component Designator: OldDesignator= NewDesignator=C26
+Change Component Designator: OldDesignator=C22-27 NewDesignator=C22
+Added Member To Class: ClassName=SixPak Ultra Member=Component C26 47pF
