@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R37 Old Footprint=RESCAV127P508X200X70-8N New Footprint=RESC2012X60N
+Change component parameters: Designator = "R37" ("R37"); Footprint = "RESCAV127P508X200X70-8N"; UniqueID = "\TOIBBSJF" ("\TOIBBSJF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'KOA Speer'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RK73H2ARTTD2702F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

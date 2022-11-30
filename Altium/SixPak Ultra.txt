@@ -1,10 +1,21 @@
 Board Information Report
-Filename     : \\Mac\Home\Documents\Git\SixPak_Ultra\Altium\SixPak Ultra.PcbDoc
-Date         : 11/23/2022
-Time         : 12:52:01 PM
+Filename     : Q:\Git\SixPak_Ultra\Altium\SixPak Ultra.PcbDoc
+Date         : 11/29/2022
+Time         : 3:56:01 PM
 Time Elapsed : 00:00:00
 
 General
-    Board Size, 338.2004mmx102.5mm
-    Components on board, 203
+    Board Size, 332.6251mmx105.91mm
+    Components on board, 206
 count : 2
+
+Routing Information
+    Routing completion, 0.00%
+    Connections, 997
+    Connections routed, 0
+    Connections remaining, 997
+count : 4
+
+Net Via Size, Count
+    1.27mm, 300
+count : 1

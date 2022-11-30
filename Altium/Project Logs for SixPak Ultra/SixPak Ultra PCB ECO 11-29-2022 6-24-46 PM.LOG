@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=VCC Pin=CD30-1
+Removed Pin From Net: NetName=GND Pin=CD30-2
+Removed Pin From Net: NetName=VCC Pin=CD31-1
+Removed Pin From Net: NetName=GND Pin=CD31-2
+Removed Pin From Net: NetName=VCC Pin=CD33-1
+Removed Pin From Net: NetName=GND Pin=CD33-2
+Removed Pin From Net: NetName=VCC Pin=CD34-1
+Removed Pin From Net: NetName=GND Pin=CD34-2
+Removed Pin From Net: NetName=VCC Pin=CD35-1
+Removed Pin From Net: NetName=GND Pin=CD35-2
+Removed Pin From Net: NetName=VCC Pin=CD36-1
+Removed Pin From Net: NetName=GND Pin=CD36-2
+Removed Pin From Net: NetName=VCC Pin=CD37-1
+Removed Pin From Net: NetName=GND Pin=CD37-2
+Removed Pin From Net: NetName=VCC Pin=CD38-1
+Removed Pin From Net: NetName=GND Pin=CD38-2
+Removed Pin From Net: NetName=VCC Pin=CD39-1
+Removed Pin From Net: NetName=GND Pin=CD39-2
+Removed Pin From Net: NetName=VCC Pin=CD40-1
+Removed Pin From Net: NetName=GND Pin=CD40-2
+Removed Pin From Net: NetName=VCC Pin=CD41-1
+Removed Pin From Net: NetName=GND Pin=CD41-2
+Removed Pin From Net: NetName=+12 Pin=CD44-1
+Removed Pin From Net: NetName=GND Pin=CD44-2
+Removed Member From Class: ClassName=SixPak Ultra Member=CD30
+Removed Member From Class: ClassName=SixPak Ultra Member=CD31
+Removed Member From Class: ClassName=SixPak Ultra Member=CD33
+Removed Member From Class: ClassName=SixPak Ultra Member=CD34
+Removed Member From Class: ClassName=SixPak Ultra Member=CD35
+Removed Member From Class: ClassName=SixPak Ultra Member=CD36
+Removed Member From Class: ClassName=SixPak Ultra Member=CD37
+Removed Member From Class: ClassName=SixPak Ultra Member=CD38
+Removed Member From Class: ClassName=SixPak Ultra Member=CD39
+Removed Member From Class: ClassName=SixPak Ultra Member=CD40
+Removed Member From Class: ClassName=SixPak Ultra Member=CD41
+Removed Member From Class: ClassName=SixPak Ultra Member=CD44
+Added Member To Class: ClassName=SixPak Ultra Member=Component R2 1k
+Added Rule: Name=Schematic Width Constraint_5
