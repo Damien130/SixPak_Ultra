@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=X2 Old Footprint=XTAL_ABM7-24.000MHZ-D2Y-T New Footprint=XTAL_ECS-240-12-20A-TR
+Change Component Comment : Designator=U9 Old Comment=16550 New Comment=16550-PLCC
+Change Component Comment : Designator=X2 Old Comment=ABM7-24.000MHZ-D2Y-T New Comment=24MHz
+Change component parameters: Designator = "X2" ("X2"); Footprint = "XTAL_ABM7-24.000MHZ-D2Y-T"; UniqueID = "\SXVFXKBT" ("\SXVFXKBT")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'ECS Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ECS-240-12-20A-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=SixPak Ultra Member=Component CD20 0.1uF
+Added Member To Class: ClassName=SixPak Ultra Member=Component U1 TVGA9000I
+Change Room Name: Old Name=VGA QFP New Name=SixPak Ultra
+Change Room Scope: Old Scope=InComponentClass('Room Definition1') New Scope=InComponentClass('SixPak Ultra')

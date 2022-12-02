@@ -1,0 +1,4 @@
+Change Differential Pair Positive Net Name : Old Net Name=TP_RX_N New Net Name=TP_RX_P
+Change Differential Pair Positive Net Name : Old Net Name=TP_TX_N New Net Name=TP_TX_P
+Change Differential Pair Negative Net Name : Old Net Name=TP_RX_P New Net Name=TP_RX_N
+Change Differential Pair Negative Net Name : Old Net Name=TP_TX_P New Net Name=TP_TX_N

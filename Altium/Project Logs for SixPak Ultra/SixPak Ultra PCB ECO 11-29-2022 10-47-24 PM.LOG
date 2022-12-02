@@ -1,0 +1,7 @@
+Change Room Name: Old Name=TVGA9000i New Name=SixPak Ultra
+Change Room Scope: Old Scope=InComponent('U1') New Scope=InComponentClass('SixPak Ultra')
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1
+Added Rule: Name=Schematic Width Constraint_2
+Added Rule: Name=Schematic Width Constraint_3
+Added Rule: Name=Schematic Width Constraint_4

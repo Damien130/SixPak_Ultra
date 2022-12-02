@@ -1,0 +1,24 @@
+Change Component Comment : Designator=C25 Old Comment=1uF New Comment=1nF
+Change Component Comment : Designator=C42 Old Comment=4700p New Comment=47000p
+Added Component: Designator=R38(RESC2012X70N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ-PB6B2000V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=AGND New Net Name=GND
+Change Net Name : Old Net Name=TP_TX+ New Net Name=TP_TX_N
+Change Net Name : Old Net Name=TP_TX- New Net Name=TP_TX_P
+Added Pin To Net: NetName=TP_RX_N Pin=P5-R3
+Added Pin To Net: NetName=TP_RX_N Pin=R38-1
+Added Pin To Net: NetName=TP_RX_N Pin=U24-59
+Added Net: Name=TP_RX_N
+Added Pin To Net: NetName=TP_RX_P Pin=P5-R6
+Added Pin To Net: NetName=TP_RX_P Pin=R38-2
+Added Pin To Net: NetName=TP_RX_P Pin=U24-58
+Added Net: Name=TP_RX_P
+Added Differential Pair: Name=TP_RX
+Added Differential Pair: Name=TP_TX
+Added Member To Class: ClassName=SixPak Ultra Member=Component R38 200
+Change Rule Scope 1 : Old Scope=InNet('AGND') New Scope=InNet('GND')

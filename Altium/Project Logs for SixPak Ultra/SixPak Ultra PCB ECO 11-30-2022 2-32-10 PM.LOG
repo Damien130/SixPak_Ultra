@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=CTS Pin=P2-1
+Removed Pin From Net: NetName=DCD Pin=P2-4
+Removed Pin From Net: NetName=GND Pin=P2-5
+Removed Pin From Net: NetName=TX Pin=P2-6
+Removed Pin From Net: NetName=RTS Pin=P2-8
+Removed Pin From Net: NetName=GND Pin=P2-S1
+Removed Pin From Net: NetName=GND Pin=P2-S2
+Change Component Footprint: Designator=P2 Old Footprint=ASSMANN_A-2004-1-4-LP-N-R New Footprint=61201021621
+Change Component Comment : Designator=P2 Old Comment=A-2004-2-4-LP/S-R New Comment=UART IDC
+Change component parameters: Designator = "P2" ("P2"); Footprint = "ASSMANN_A-2004-1-4-LP-N-R"; UniqueID = "\YRLJSMLX" ("\YRLJSMLX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Elektronik'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "61201021621"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DCD Pin=P2-1
+Added Pin To Net: NetName=RTS Pin=P2-4
+Added Pin To Net: NetName=TX Pin=P2-5
+Added Pin To Net: NetName=CTS Pin=P2-6
+Added Pin To Net: NetName=GND Pin=P2-9
+Change Net Name : Old Net Name=GND New Net Name=AGND
+Added Pin To Net: NetName=RI Pin=P2-8
+Added Pin To Net: NetName=RI Pin=U11-9
+Added Net: Name=RI
+Added Member To Class: ClassName=SixPak Ultra Member=Component R2 1k
+Change Rule Scope 1 : Old Scope=InNet('GND') New Scope=InNet('AGND')
