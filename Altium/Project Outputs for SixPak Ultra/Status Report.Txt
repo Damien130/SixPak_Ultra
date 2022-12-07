@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SixPak Ultra.PrjPcb]
+   Generated File[SixPak Ultra.TXT]
+   Generated File[SixPak Ultra.LDP]
+   Generated File[SixPak Ultra.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:16:22 AM On 12/7/2022

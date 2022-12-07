@@ -1,15 +1,15 @@
 Protel Design System Design Rule Check
 PCB File : Q:\Git\SixPak_Ultra\Altium\SixPak Ultra.PcbDoc
 Date     : 12/7/2022
-Time     : 12:42:22 AM
-
-Processing Rule : Clearance Constraint (Gap=8mil) (OnLayer('Bottom Layer')),(All)
-Rule Violations :0
+Time     : 5:07:07 AM
 
 Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=8mil) (OnLayer('Top Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (OnLayer('Bottom Layer')),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -27,7 +27,7 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=5mil) (Max=30mil) (Preferred=20mil) (InNet('GND'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=5mil) (Max=30mil) (Preferred=20mil) (InNet('+12'))
+Processing Rule : Width Constraint (Min=12mil) (Max=100mil) (Preferred=12mil) (WithinRoom('VGA QFP'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=5mil) (Max=30mil) (Preferred=20mil) (InNet('VCC'))
@@ -36,16 +36,19 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=5mil) (Max=30mil) (Preferred=20mil) (InNet('AVDD2'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=12mil) (Max=100mil) (Preferred=12mil) (WithinRoom('VGA QFP'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=3.5mil) (Max=100mil) (Preferred=12mil) (All)
+Processing Rule : Width Constraint (Min=5mil) (Max=30mil) (Preferred=20mil) (InNet('+12'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=12mil) (WithinRoom('RTL8019'))
 Rule Violations :0
 
+Processing Rule : Width Constraint (Min=3.5mil) (Max=100mil) (Preferred=12mil) (All)
+Rule Violations :0
+
 Processing Rule : SMD Neck-Down Constraint (Percent=100%) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InNet('GND'))
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -129,20 +132,7 @@ Processing Rule : Silk To Solder Mask (Clearance=3.937mil) (IsPad),(All)
 Rule Violations :60
 
 Processing Rule : Silk to Silk (Clearance=3.937mil) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (3.145mil < 3.937mil) Between Arc (4754.849mil,3639.809mil) on Top Overlay And Text "U3" (4691.721mil,3594.805mil) on Top Overlay Silk Text to Silk Clearance [3.145mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 3.937mil) Between Text "C23" (8827.495mil,2268.713mil) on Top Overlay And Track (8788.39mil,1813.573mil)(8788.39mil,3033.573mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 3.937mil) Between Text "C24" (8826.795mil,2159.413mil) on Top Overlay And Track (8788.39mil,1813.573mil)(8788.39mil,3033.573mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (1.623mil < 3.937mil) Between Text "C25" (8802.513mil,2100.005mil) on Top Overlay And Track (8788.39mil,1813.573mil)(8788.39mil,3033.573mil) on Top Overlay Silk Text to Silk Clearance [1.623mil]
-   Violation between Silk To Silk Clearance Constraint: (1.623mil < 3.937mil) Between Text "C26" (8802.513mil,1990.005mil) on Top Overlay And Track (8788.39mil,1813.573mil)(8788.39mil,3033.573mil) on Top Overlay Silk Text to Silk Clearance [1.623mil]
-   Violation between Silk To Silk Clearance Constraint: (1.623mil < 3.937mil) Between Text "C27" (8802.513mil,1887.705mil) on Top Overlay And Track (8788.39mil,1813.573mil)(8788.39mil,3033.573mil) on Top Overlay Silk Text to Silk Clearance [1.623mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 3.937mil) Between Text "C28" (1424.244mil,3046.605mil) on Top Overlay And Track (1430.92mil,2967.025mil)(1430.92mil,3167.025mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (3.146mil < 3.937mil) Between Text "U2" (4691.721mil,3259.805mil) on Top Overlay And Track (4754.85mil,3092.157mil)(4754.85mil,3292.157mil) on Top Overlay Silk Text to Silk Clearance [3.146mil]
-   Violation between Silk To Silk Clearance Constraint: (3.146mil < 3.937mil) Between Text "U3" (4691.721mil,3594.805mil) on Top Overlay And Track (4754.85mil,3539.809mil)(4754.85mil,3739.809mil) on Top Overlay Silk Text to Silk Clearance [3.146mil]
-   Violation between Silk To Silk Clearance Constraint: (3.144mil < 3.937mil) Between Text "U4" (4691.721mil,2792.134mil) on Top Overlay And Track (4754.848mil,2644.507mil)(4754.848mil,2844.507mil) on Top Overlay Silk Text to Silk Clearance [3.144mil]
-   Violation between Silk To Silk Clearance Constraint: (3.144mil < 3.937mil) Between Text "U5" (4691.721mil,2357.305mil) on Top Overlay And Track (4754.848mil,2196.855mil)(4754.848mil,2396.855mil) on Top Overlay Silk Text to Silk Clearance [3.144mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 3.937mil) Between Text "X2" (1424.244mil,2947.005mil) on Top Overlay And Track (1430.92mil,2967.025mil)(1430.92mil,3167.025mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 3.937mil) Between Text "X2" (1424.244mil,2947.005mil) on Top Overlay And Track (1430.92mil,2967.025mil)(2490.92mil,2967.025mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-Rule Violations :13
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -151,36 +141,36 @@ Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
    Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (5335.89mil,-299.927mil)(5335.89mil,50.073mil) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (5335.89mil,-299.927mil)(8535.89mil,-299.927mil) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (8535.89mil,-299.927mil)(8535.89mil,50.073mil) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (8788.39mil,1813.573mil)(9428.39mil,1813.573mil) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (8788.39mil,3033.573mil)(9428.39mil,3033.573mil) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (6.33mil < 7.874mil) Between Board Edge And Track (9248.19mil,1107.935mil)(9426.93mil,1107.935mil) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (6.33mil < 7.874mil) Between Board Edge And Track (9248.19mil,1728.013mil)(9426.93mil,1728.013mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (8820mil,1811.8mil)(9460mil,1811.8mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (8820mil,3031.8mil)(9460mil,3031.8mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (9285.388mil,1113.346mil)(9464.128mil,1113.346mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (9285.388mil,1733.424mil)(9464.128mil,1733.424mil) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (9419.172mil,3250.193mil)(9556.972mil,3250.193mil) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (9419.172mil,3525.793mil)(9556.972mil,3525.793mil) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (6.33mil < 7.874mil) Between Board Edge And Track (9426.93mil,1107.935mil)(9426.93mil,1728.013mil) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (9428.39mil,1813.573mil)(9428.39mil,3033.573mil) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (9428.39mil,2083.573mil)(9668.39mil,2083.573mil) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (9428.39mil,2763.573mil)(9668.39mil,2763.573mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (9460mil,1811.8mil)(9460mil,3031.8mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (9460mil,2081.8mil)(9700mil,2081.8mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (9460mil,2761.8mil)(9700mil,2761.8mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (9464.128mil,1113.346mil)(9464.128mil,1733.424mil) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (9556.972mil,3250.193mil)(9556.972mil,3525.793mil) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (9668.39mil,2083.573mil)(9668.39mil,2763.573mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (9700mil,2081.8mil)(9700mil,2761.8mil) on Top Overlay 
 Rule Violations :15
 
-Processing Rule : Room VGA QFP (Bounding Region = (10249.188mil, 773.386mil, 11763.388mil, 2287.586mil) (InComponentClass('Room Definition1'))
+Processing Rule : Room 8277 (Bounding Region = (5257.298mil, 1720.556mil, 6598.059mil, 3163.113mil) (InComponentClass('Room Definition3'))
 Rule Violations :0
 
-Processing Rule : Room 8277 (Bounding Region = (5257.298mil, 1720.556mil, 6598.059mil, 3163.113mil) (InComponentClass('Room Definition3'))
+Processing Rule : Room 16550 (Bounding Region = (6622.388mil, 2565.113mil, 7667.688mil, 3592.613mil) (InComponent('U9'))
 Rule Violations :0
 
 Processing Rule : Room RTL8019 (Bounding Region = (8695.312mil, 1051.431mil, 9760.588mil, 1880.486mil) (InComponentClass('Room Definition2'))
 Rule Violations :0
 
-Processing Rule : Room 16550 (Bounding Region = (6622.388mil, 2565.113mil, 7667.688mil, 3592.613mil) (InComponent('U9'))
+Processing Rule : Room VGA QFP (Bounding Region = (10073.598mil, 773.386mil, 11545.798mil, 2287.586mil) (InComponentClass('Room Definition1'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 90
+Violations Detected : 77
 Waived Violations : 0
-Time Elapsed        : 00:00:08
+Time Elapsed        : 00:00:07

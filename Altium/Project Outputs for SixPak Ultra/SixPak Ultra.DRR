@@ -1,0 +1,32 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SixPak Ultra.PcbDoc   12/7/2022  5:16:22 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Copper to Bottom Copper
+ASCII RoundHoles File : SixPak Ultra.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             662       PTH        124.06inch (3151.01mm)
+T2      29mil (0.729mm)                                           Round             2         PTH        0.33inch (8.29mm)
+T3      29mil (0.739mm)                                           Round             14        PTH        1.51inch (38.42mm)
+T4      30mil (0.762mm)                                           Round             6         PTH        4.47inch (113.65mm)
+T5      31mil (0.79mm)                                            Round             24        PTH        4.10inch (104.14mm)
+T6      32mil (0.813mm)                                           Round             374       PTH        65.63inch (1667.07mm)
+T7      33mil (0.841mm)                                           Round             3         PTH        0.10inch (2.54mm)
+T8      34mil (0.851mm)                                           Round             2         PTH        0.14inch (3.50mm)
+T9      35mil (0.889mm)                                           Round             4         PTH        0.54inch (13.64mm)
+T10     35mil (0.899mm)                                           Round             8         PTH        0.71inch (18.10mm)
+T11     40mil (1.016mm)                                           Round             37        PTH        11.55inch (293.46mm)
+T12     41mil (1.041mm)                                           Round             15        PTH        1.30inch (33.07mm)
+T13     43mil (1.079mm)                                           Round             6         PTH        9.06inch (230.17mm)
+T14     43mil (1.1mm)                                             Round             10        PTH        0.90inch (22.86mm)
+T15     51mil (1.3mm)                                             Round             5         PTH        0.67inch (17.08mm)
+T16     63mil (1.6mm)                                             Round             5         PTH        2.80inch (71.02mm)
+T17     120mil (3.051mm)                                          Round             2         PTH        0.98inch (24.99mm)
+T18     68mil (1.73mm)                                            Round             2         NPTH       0.20inch (5.08mm)
+T19     128mil (3.251mm)                                          Round             2         NPTH       0.45inch (11.43mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1183
+
+Total Processing Time (hh:mm:ss) : 00:00:00

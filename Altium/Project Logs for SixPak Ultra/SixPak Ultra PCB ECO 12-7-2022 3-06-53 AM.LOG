@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VCC Pin=U22-11
+Added Pin To Net: NetName=+12 Pin=U22-11
