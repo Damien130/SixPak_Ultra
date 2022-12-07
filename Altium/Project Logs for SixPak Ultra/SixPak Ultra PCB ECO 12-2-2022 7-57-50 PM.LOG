@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IRQ3 Pin=J4-01
+Removed Pin From Net: NetName=IRQ5 Pin=J4-03
+Added Pin To Net: NetName=IRQ5 Pin=J4-01
+Added Pin To Net: NetName=IRQ3 Pin=J4-03
