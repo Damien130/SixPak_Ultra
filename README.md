@@ -1,5 +1,5 @@
 # SixPak_Ultra
-- Currently in the development phase
+- Currently in Alpha
 
 A combination expansion card for the XT Bus, contains
   
